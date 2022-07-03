@@ -1,0 +1,2 @@
+-r vosk.txt
+-r glow.txt

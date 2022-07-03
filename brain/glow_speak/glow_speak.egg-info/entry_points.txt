@@ -1,0 +1,6 @@
+[console_scripts]
+glow-speak = glow_speak.__main__:main
+glow-speak-download = glow_speak.download:main
+glow-speak-http-server = glow_speak.http_server:main
+glow-speak-socket-client = glow_speak.socket_client:main
+glow-speak-socket-server = glow_speak.socket_server:main
